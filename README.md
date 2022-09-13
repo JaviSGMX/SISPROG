@@ -2,4 +2,4 @@
 ## SENSOR SERVO
 ### POR: JAVIER SANCHEZ
 
-![](https://r77.cooltext.com/rendered/cooltext419183085501663.png)
+![](https://p79.cooltext.com/Rendered/Cool%20Text%20-%20SERVO%20SENSOR%20419182828306278.png)
