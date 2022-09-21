@@ -25,6 +25,14 @@ Como se muestra en la figura anterior, el servomotor tiene tres pines para su fu
 #### Señal de control (NARANJA)
 - Conecte PWM de 20 ms (50 Hz) a este pin.
 
+## Caracteristicas de un servo modelo Micro Servo Tower-pro
+
+| Velocidad        | 0.10 sec/60° @ 4.8V |   |   |   |
+|------------------|---------------------|---|---|---|
+| Torque           | 1.8 Kg-cm @ 4.8V    |   |   |   |
+| Voltaje          | 3.0-7.2V            |   |   |   |
+| Temp. De Funcion | -30 ℃ ~ 60 ℃        |   |   |   |
+
 ![](https://www.electronicwings.com/storage/PlatformSection/TopicContent/134/description/Servo_Motor_Mechanism.png)
 
 ## Principal Funcionamiento
