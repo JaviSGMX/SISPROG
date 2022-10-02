@@ -42,6 +42,17 @@ Como se muestra en la figura anterior, el servomotor tiene tres pines para su fu
 #### El eje del motor de CC está conectado al eje del potenciómetro (perilla) a través del conjunto de engranajes. Por lo tanto, el motor de CC giratorio gira el potenciómetro, que en términos cambia la señal de referencia del potenciómetro dada al comparador.
 #### En alguna posición del eje, tanto la señal del potenciómetro como la intensidad de la señal de control coinciden, lo que produce una salida de señal de error cero. Por lo tanto, la rotación continúa hasta que la señal de error de salida del comparador se vuelve cero y el motor de CC se detiene.
 
+## Codigo de funcionamiento servo el CircuitPython con Pico w.
+
+![](https://i.imgur.com/KyCEmuo.png)
+
+## Imagen GIF demostracion de la practica.
+![](https://i.imgur.com/lJyaw9k.gif)
+
+
+#
+#
+
 ![](https://i.imgur.com/YtN6IQj.png)
 
 ## ¿Que es?
